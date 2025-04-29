@@ -1,4 +1,4 @@
-nano: Hello World
+name: Hello World
 
 #Trigger this workflow on every push
 
