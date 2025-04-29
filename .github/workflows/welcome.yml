@@ -7,7 +7,7 @@ on:
 
 jobs:
   say-hello:
-    runs-on: ububtu-latest
+    runs-on: ubuntu-latest
     steps:
       - name: Print Hello
         run: echo "Hello, world! ~@"
